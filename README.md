@@ -1,8 +1,12 @@
-
-## Michael Novas Homework 1
+# Michael Novas Homework 1
 
 This is my first code refactor assignment covering HTML and CSS.
 
+## URL
+
+The deployed application can be access at
+
+![url](https://michael55github.github.io/UCLAchallenge1/)
 ## Description
 Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
@@ -37,8 +41,14 @@ THEN I find a concise, descriptive title
 ![image](assets\images\social-media-marketing.jpg)
 
 ## MockUp to Refactor
+## Mock-Up
 
-![image](MockUp90%Goal\01-html-css-git-homework-demo.png)
+The following image shows the web application's appearance and functionality:
+
+![My first webpage assignment includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
+> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+
 
 ## Usage
 To see this website go to the URL submission for github pages
