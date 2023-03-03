@@ -33,23 +33,23 @@ THEN I find a concise, descriptive title
 
 ## Visuals
 
-![image](assets\css\images\brand-awareness.png)
+![image](assets\images\brand-awareness.png)
 
-![image](assets\css\images\cost-management.png)
+![image](assets\\images\cost-management.png)
 
-![image](assets\css\images\digital-marketing-meeting.jpg)
+![image](assets\images\digital-marketing-meeting.jpg)
 
-![image](assets\css\images\lead-generation.png)
+![image](assets\images\lead-generation.png)
 
-![image](assets\css\images\online-reputation-management.jpg)
+![image](assets\images\online-reputation-management.jpg)
 
-![image](assets\css\images\search-engine-optimization.jpg)
+![image](assets\images\search-engine-optimization.jpg)
 
-![image](assets\css\images\social-media-marketing.jpg)
+![image](assets\images\social-media-marketing.jpg)
 
 ## Mock-Up
 
-![image](MockUp90%Goal\01-html-css-git-homework-demo.png)
+![image](MockUp90Goal\01-html-css-git-homework-demo.png)
 
 The following image shows the web application's appearance and functionality:
 
