@@ -32,20 +32,28 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Visuals
-![image](assets\images\brand-awareness.png)
-![image](assets\images\cost-management.png)
-![image](assets\images\digital-marketing-meeting.jpg)
-![image](assets\images\lead-generation.png)
-![image](assets\images\online-reputation-management.jpg)
-![image](assets\images\search-engine-optimization.jpg)
-![image](assets\images\social-media-marketing.jpg)
 
-## MockUp to Refactor
+![image](assets\css\images\brand-awareness.png)
+
+![image](assets\css\images\cost-management.png)
+
+![image](assets\css\images\digital-marketing-meeting.jpg)
+
+![image](assets\css\images\lead-generation.png)
+
+![image](assets\css\images\online-reputation-management.jpg)
+
+![image](assets\css\images\search-engine-optimization.jpg)
+
+![image](assets\css\images\social-media-marketing.jpg)
+
 ## Mock-Up
+
+![image](MockUp90%Goal\01-html-css-git-homework-demo.png)
 
 The following image shows the web application's appearance and functionality:
 
-![My first webpage assignment includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
