@@ -39,17 +39,17 @@ THEN I find a concise, descriptive title
 
 ![image](https://github.com/michael55github/UCLAchallenge1/blob/main/assets/images/digital-marketing-meeting.jpg)
 
-![image](assets\images\lead-generation.png)
+![image](https://github.com/michael55github/UCLAchallenge1/blob/main/assets/images/lead-generation.png)
 
-![image](assets\images\online-reputation-management.jpg)
+![image](https://github.com/michael55github/UCLAchallenge1/blob/main/assets/images/online-reputation-management.jpg)
 
-![image](assets\images\search-engine-optimization.jpg)
+![image](https://github.com/michael55github/UCLAchallenge1/blob/main/assets/images/search-engine-optimization.jpg)
 
-![image](assets\images\social-media-marketing.jpg)
+![image](https://github.com/michael55github/UCLAchallenge1/blob/main/assets/images/social-media-marketing.jpg)
 
 ## Mock-Up
 
-![image](MockUp90Goal\01-html-css-git-homework-demo.png)
+![image](https://github.com/michael55github/UCLAchallenge1/blob/main/MockUp90Goal/01-html-css-git-homework-demo.png)
 
 The following image shows the web application's appearance and functionality:
 
