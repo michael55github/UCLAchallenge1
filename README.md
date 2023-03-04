@@ -33,11 +33,11 @@ THEN I find a concise, descriptive title
 
 ## Visuals
 
-![image](assets\images\brand-awareness.png)
+![image](https://github.com/michael55github/UCLAchallenge1/blob/main/assets/images/brand-awareness.png)
 
-![image](assets\\images\cost-management.png)
+![image](https://github.com/michael55github/UCLAchallenge1/blob/main/assets/images/cost-management.png)
 
-![image](assets\images\digital-marketing-meeting.jpg)
+![image](https://github.com/michael55github/UCLAchallenge1/blob/main/assets/images/digital-marketing-meeting.jpg)
 
 ![image](assets\images\lead-generation.png)
 
