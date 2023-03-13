@@ -9,7 +9,7 @@ This is my first code refactor assignment covering HTML and CSS.
 
 The deployed application can be access at
 
-[URL](https://michael55github.github.io/UCLAchallenge1/)
+[URL](https://novasm55.github.io/UCLAchallenge1/)
 
 
 ## Description
